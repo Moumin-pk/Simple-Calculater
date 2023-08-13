@@ -7,4 +7,4 @@ How to Use:
 3️⃣ Click 'Calculate' for instant results.
 🎯 See your result below the button.
 
-🔗 Click and check it out here: https://moumin-pk.github.io/Simple-Calculater/
+🔗 Click and check it out here: https://moumin-pk.github.io/Simple-Calculater/😊
